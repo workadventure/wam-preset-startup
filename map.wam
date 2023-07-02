@@ -1,12 +1,12 @@
 {
 	"version": "1.0.0",
 	"mapUrl": "https://workadventure.github.io/wam-preset-startup/map.tmj",
-    "metadata":{
-        "name": "Startup",
-        "description": "Suitable for up to 30 users.\n\nAn office designed for a startup company. Mixing fun and serious, this map has two meeting rooms, one open space, one kitchen, one chill-zone... It will be perfect to work and to welcome your guest.",
-        "copyright": "CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)",
-        "thumbnail": "https://workadventure.github.io/wam-preset-startup/map.png"
-    },
+	"metadata": {
+		"name": "Startup",
+		"description": "Suitable for up to 30 users.\n\nAn office designed for a startup company. Mixing fun and serious, this map has two meeting rooms, one open space, one kitchen, one chill-zone... It will be perfect to work and to welcome your guest.",
+		"copyright": "CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)",
+		"thumbnail": "https://workadventure.github.io/wam-preset-startup/map.png"
+	},
 	"entities": {
 		"1bf1f89a-c5d5-448b-be46-c20f400964a9": {
 			"x": 64,
